@@ -1,0 +1,26 @@
+.nav{
+  height: 70px;
+  background-color: gray;
+  display: flex;
+  position: fixed;
+  align-items: center;
+  justify-content: space-between;
+  top:0px;
+  right: 0px;
+  left: 0px;
+}
+.div1{
+  font-family: arial;
+  height: 70px;
+  width: 100px;
+  margin-left: 20px;
+}
+.div2{
+  font-family: arial;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  height: 70px;
+  width: 350px;
+  margin-right: 20px;
+}
